@@ -44,3 +44,21 @@ Show the processed video feed ("Tracking") and the canvas ("Paint") simultaneous
 - Interactive and Fun: Explore the potential of computer vision in a creative and enjoyable way.
 - Real-World Applications: Expand these concepts for gesture recognition, augmented reality, or interactive displays.
 
+### Snapshots:
+#### Paint Window:    
+<img width="481" height="373" alt="image" src="https://github.com/user-attachments/assets/3349bdc9-5d41-4491-910b-0a57005ef0c1" />
+
+---
+
+#### Mask Window:
+<img width="474" height="366" alt="image" src="https://github.com/user-attachments/assets/c274bfd0-c1e8-4222-8ef8-c81940942d8c" />
+
+---
+
+#### Colour Detections Window:
+<img width="940" height="266" alt="image" src="https://github.com/user-attachments/assets/dd46d747-b00f-4551-a8d8-36e24272fec1" />
+
+----
+
+#### Tracking Window:
+<img width="1069" height="481" alt="image" src="https://github.com/user-attachments/assets/ccb65e28-d501-4bd5-8206-760a220e29b4" />
